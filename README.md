@@ -1,4 +1,5 @@
 # HighSchoolListApp developed using MVVM Architecture +  HILT DEPENDECNY INJECTION +  RETROFIT 2
+Project developed in AndroidStudio Chipmunk | 2021.2.1 Patch 1
 
 Used JetPack libs such as Navigation and Data Binding.
 
