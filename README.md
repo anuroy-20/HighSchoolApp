@@ -35,6 +35,10 @@ Open the application in Android Studio - File- Open.
 Build the gradle and run the app in emulator
 
 ScreenShots
-![](../../Desktop/Screen Shot 2022-09-18 at 12.44.00 PM.png)
 
-![](../../Desktop/Screen Shot 2022-09-18 at 12.44.12 PM.png)
+<img width="484" alt="Screen Shot 2022-09-18 at 12 44 00 PM" src="https://user-images.githubusercontent.com/81196059/190926217-a409e785-accc-40b3-b64d-c97693972ba5.png">
+
+<img width="490" alt="Screen Shot 2022-09-18 at 12 44 12 PM" src="https://user-images.githubusercontent.com/81196059/190926225-408513e7-108b-4a3f-91e7-e0dd52153ae8.png">
+
+
+
