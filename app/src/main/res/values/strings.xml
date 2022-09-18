@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HighSchoolNY</string>
+    <string name="app_bar_name">NewYork HighSchool List</string>
+    <string name="app_bar_details_name">SAT Test Details</string>
+    <string name="school_list">School List</string>
+    <string name="no_data_message">No Data Available</string>
+    <string name="home">Home</string>
+    <string name="sat_details">SAT DETAILS</string>
+    <string name="sat_test_takers">SAT TEST TAKERS:  </string>
+    <string name="crticial_reading_score">Critical Reading Average Score:  </string>
+    <string name="mathematics_score">Mathematics Average Score:  </string>
+    <string name="writing_score">Writing Average Score:  </string>
+    <string name="details_screen">Details Screen</string>
+</resources>

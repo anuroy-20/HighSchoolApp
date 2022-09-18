@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/home_dest">
+
+    <fragment
+        android:id="@+id/home_dest"
+        android:name="com.codetest.highschool.ui.SchoolListFragment"
+        android:label="@string/home"
+        tools:layout="@layout/fragment_list">
+        <action
+            android:id="@+id/forecastList"
+            app:destination="@id/list_dest" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/list_dest"
+        android:name="com.codetest.highschool.ui.SchoolListFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_list">
+        <action
+            android:id="@+id/navHome"
+            app:destination="@id/nav_graph" />
+    </fragment>
+    <fragment
+        android:id="@+id/forecastDetail_dest"
+        android:name="com.codetest.highschool.ui.DetailsFragment"
+        android:label="@string/details_screen"
+        tools:layout="@layout/fragment_sat_details">
+        <action
+            android:id="@+id/schoolList"
+            app:destination="@id/list_dest" />
+        <argument
+            android:name="schoolname"
+            app:argType="string" />
+    </fragment>
+</navigation>
