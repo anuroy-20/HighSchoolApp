@@ -29,4 +29,12 @@ Unit Testing covered for service and viewmodel classes.
 
 Tested Application in 5.4 FWVGA API 30.
 
-# HighSchoolApp
+# Steps to run the App
+Download the application as Zip File or using HTTPS link.(https://github.com/anuroy-20/HighSchoolApp.git)
+Open the application in Android Studio - File- Open.
+Build the gradle and run the app in emulator
+
+ScreenShots
+![](../../Desktop/Screen Shot 2022-09-18 at 12.44.00 PM.png)
+
+![](../../Desktop/Screen Shot 2022-09-18 at 12.44.12 PM.png)
