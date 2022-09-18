@@ -1,8 +1,8 @@
-# HighSchoolLisyApp developed using MVVM Architecture +  HILT DEPENDECNY INJECTION +  RETROFIT 2
+# HighSchoolListApp developed using MVVM Architecture +  HILT DEPENDECNY INJECTION +  RETROFIT 2
 
 Used JetPack libs such as Navigation and Data Binding.
 
-Referred medium and git hub tutorials.
+Referred medium and github tutorials.
 
 ## Architecture followed
 Mvvm
@@ -20,12 +20,10 @@ Retrofit
 
 - Kotlin - (https://developer.android.com/kotlin)
 
-## The project has total 3 screens 
+## The project has total 2 screens
 
-
-- Screen to enter city name
-- Screen to display weather details in recyclerview
-- Screen to show the details of selected list item.
+- Screen to list the High School in recyclerview
+- Screen to display SAT Details based on the selected School
 
 Unit Testing covered for service and viewmodel classes.
 
